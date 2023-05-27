@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-- url: https://fastidious-naiad-90c0ed.netlify.app/.netlify/functions/index/api/v1
+- url: https://jobs-api-backend-i2i6.onrender.com/api/v1
   variables: {}
 paths:
   /auth/register:
